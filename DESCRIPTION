@@ -26,11 +26,11 @@ Suggests:
     knitr,
     rmarkdown
 Remotes:
-  github::rjdemetra/rjd3toolkit, 
-  github::rjdemetra/rjd3x13, 
-  github::rjdemetra/rjd3tramoseats, 
-  github::rjdemetra/rjd3x11plus,  
-  github::rjdemetra/rjd3highfreq
+  github::rjdverse/rjd3toolkit, 
+  github::rjdverse/rjd3x13, 
+  github::rjdverse/rjd3tramoseats, 
+  github::rjdverse/rjd3x11plus,  
+  github::rjdverse/rjd3highfreq
 SystemRequirements: Java (>= 17)
 License: EUPL
 URL: https://github.com/AQLT/ggdemetra3
